@@ -1,6 +1,7 @@
 # Obesity Level Project
 
-![Obesity Infographic](https://img.freepik.com/premium-vector/human-obesity-info-graphic-vector-flat-poster_32235250.jpg)
+![image](https://github.com/user-attachments/assets/e31b7b98-b819-4c44-a940-e1e0c4159cda)
+
 
 ## Description
 
